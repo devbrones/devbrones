@@ -6,7 +6,7 @@
 
 <p><img align="right" src="logo-normal-dark-devteam.svg" alt="Magisim Developer Team Logo" width="128"/></p>
 
-$\large Making$ $\large something$ $\large \overline{sized}$
+$\large Making$ $\large something$ $\large average sized$
 
 <hr>
 
